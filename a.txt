@@ -1,0 +1,2 @@
+It is not the first time I'm using gedit.
+Second line edited! 
